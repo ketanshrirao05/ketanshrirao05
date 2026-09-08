@@ -21,7 +21,7 @@
 
 ---
 
-## `> whoami`
+## `> who am i`
 
 Electronics & Telecommunication Engineering student specializing in FPGA/SoC design, embedded hardware, and cloud-connected IoT systems. Experienced in digital logic design (VHDL/Verilog), real-time sensor processing, embedded Linux, and custom hardware acceleration.
 

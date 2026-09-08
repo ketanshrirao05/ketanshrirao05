@@ -4,6 +4,7 @@
 </div>
 
 <br>
+<br>
 
 <!-- TYPING SVG HEADER -->
 <div align="center">

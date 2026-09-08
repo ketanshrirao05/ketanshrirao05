@@ -1,12 +1,16 @@
 <!-- HEADER BANNER -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0A0F08&fontColor=CAFF3C&text=%3E_%20KETAN%20SHRIRAO&fontSize=38&desc=FPGA%20/%20SoC%20Design%20%7C%20Embedded%20Systems%20%7C%20IoT%20Engineer&descColor=8AFF57&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0A0F08&fontColor=CAFF3C&text=%3E_%20KETAN%20SHRIRAO&fontSize=38&desc=FPGA%20%2F%20SoC%20Design%20%7C%20Embedded%20Systems%20%7C%20IoT%20Engineer&descColor=8AFF57&animation=fadeIn" />
 </div>
+
+<br>
 
 <!-- TYPING SVG HEADER -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&color=CAFF3C&center=true&vCenter=true&width=850&lines=$+whoami+%E2%86%92+E%26TC+Engineering+Student+%40+PCE+Nagpur;$+specialization+%E2%86%92+FPGA%2FSoC+Design%2C+Embedded+Linux+%26+IoT;$+status+%E2%86%92+Building+Cloud-Based+FPGA+Teleoperation+Systems;$+open-to+%E2%86%92+VLSI%2C+Embedded+Systems+%26+IoT+Internships" />
 </div>
+
+<br>
 
 <!-- SOCIAL & CONTACT BADGES -->
 <p align="center">
